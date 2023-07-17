@@ -1,0 +1,19 @@
+/**:
+  ros__parameters:
+    min_range: 1.0
+    max_range: 80.0
+
+    resolution: 8.0
+    num_iter: 3
+    num_lpr: 5
+    num_min_pts: 10
+    th_seeds: 0.5
+    th_dist: 0.20
+    th_outlier: 1.0
+    th_normal: 0.940
+    th_weight: 200.0
+    th_lcc_normal: 0.05
+    th_lcc_planar: 0.15
+    th_obstacle: 1.0
+    refine_mode: true
+    visualization: true
